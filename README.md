@@ -32,8 +32,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td align="center">
       <a href="#">
-        <img src="./foto-daniel.jpeg
-        " width="100px;" alt="Foto do Daniel Vieira no GitHub"/><br>
+        <img src="./foto-daniel.jpeg" width="100px;" alt="Foto do Daniel Vieira no GitHub"/><br>
         <sub>
           <b>Daniel Vieira</b>
         </sub>
