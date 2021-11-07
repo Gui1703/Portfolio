@@ -1,30 +1,32 @@
 # Portfolio
 
 
-<img src="./assets/Print one.png" alt="Foto Portfolio">
-<img src="./assets/Print two.png" alt="Foto Portfolio">
+<img src="./assets/Print one.png" alt="Photo Portfolio">
+<img src="./assets/Print two.png" alt="Photo Portfolioo">
 
+> Presentation image about us and our goals.
 
-> Imagem de apresentação sobre nós e nossos objetivos.
+<img src="./assets/Print three.png" alt="Photo Social Networks">
 
-### Ajustes e melhorias
+> Image about our social networks.
+### Adjustments and improvements
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
+The project is still under development and future updates will focus on the following tasks:
 
-- [x] Sobre nós
-- [ ] Redes Sociais
-- [ ] Nosso Portfolio
-- [ ] Finalização do Portfolio
+- [x] About Us.
+- [x] Social networks.
+- [ ] Our Portfolio.
+- [ ] Portfolio in constant update.
 
-## 🤝 Colaboradores
+## 🤝 Contributors.
 
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
+We thank the following people who contributed to this project:
 
 <table>
   <tr>
     <td align="center">
       <a href="#">
-        <img src="./foto-guilherme.jpeg" width="100px;" alt="Foto do Guilherme Raposo no GitHub"/><br>
+        <img src="./foto-guilherme.jpeg" width="100px;" alt="Guilherme Raposo's photo on GitHub"/><br>
         <sub>
           <b>Guilherme Raposo</b>
         </sub>
@@ -32,7 +34,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td align="center">
       <a href="#">
-        <img src="./foto-daniel.jpeg" width="100px;" alt="Foto do Daniel Vieira no GitHub"/><br>
+        <img src="./foto-daniel.jpeg" width="110px;" alt="Photo by Daniel Vieira on GitHub"/><br>
         <sub>
           <b>Daniel Vieira</b>
         </sub>
