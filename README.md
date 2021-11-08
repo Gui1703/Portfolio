@@ -26,7 +26,7 @@ We thank the following people who contributed to this project:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="./foto-guilherme.jpeg" width="100px;" alt="Guilherme Raposo's photo on GitHub"/><br>
+        <img src="./assets/foto-guilherme.jpeg" width="100px;" alt="Guilherme Raposo's photo on GitHub"/><br>
         <sub>
           <b>Guilherme Raposo</b>
         </sub>
@@ -34,7 +34,7 @@ We thank the following people who contributed to this project:
     </td>
     <td align="center">
       <a href="#">
-        <img src="./foto-daniel.jpeg" width="110px;" alt="Photo by Daniel Vieira on GitHub"/><br>
+        <img src="./assets/foto-daniel.jpeg" width="110px;" alt="Photo by Daniel Vieira on GitHub"/><br>
         <sub>
           <b>Daniel Vieira</b>
         </sub>
