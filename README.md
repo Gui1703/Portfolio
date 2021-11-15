@@ -9,13 +9,23 @@
 <img src="./assets/Print three.png" alt="Photo Social Networks">
 
 > Image about our social networks.
+
+<img src="./assets/Print four.png" alt="Guilherme-s Portfolio Photo">
+<img src="./assets/Print five.png" alt="Guilherme's Portfolio Photo">
+<img src="./assets/Print six.png" alt="Guilherme's Portfolio Photo">
+<img src="./assets/Print seven.png" alt="Guilherme's Portfolio Photo">
+<img src="./assets/Print eight.png" alt="Guilherme's Portfolio Photo">
+
+> Added Guilherme's Portfolio to the project
+
 ### Adjustments and improvements
 
 The project is still under development and future updates will focus on the following tasks:
 
 - [x] About Us.
 - [x] Social networks.
-- [ ] Our Portfolio.
+- [x] Guilherme's Portfolio.
+- [ ] Daniel's portfolio.
 - [ ] Portfolio in constant update.
 
 ## 🤝 Contributors.
