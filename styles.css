@@ -5,6 +5,10 @@
     font-family: 'Poppins', sans-serif;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 a {
     text-decoration: none;
     color: #4F4F4F;
@@ -50,6 +54,7 @@ a:hover {
     margin-left: 100px;
     margin-top: 45px;
     border-radius: 10px;
+    filter: drop-shadow(2px 4px 8px #000000);
 }
 
 .photograph-daniel {
@@ -59,6 +64,7 @@ a:hover {
     margin-top: 300px;
     padding-bottom: 15px;
     border-radius: 10px;
+    filter: drop-shadow(2px 4px 8px #000000);
 }
 
 #paragraph-one {
@@ -79,7 +85,7 @@ a:hover {
     font-style: normal;
     font-weight: normal;
     font-size: 22px;
-    padding-top: 500px;
+    padding-top: 470px;
     padding-left: 330px;
 }
 
@@ -87,7 +93,7 @@ a:hover {
 .Guilherme {
     display: block;
     text-align: center;
-    margin-top: 50px;
+    margin-top: 100px;
     color: #000000;
     font-style: normal;
     font-weight: normal;
@@ -126,7 +132,7 @@ a:hover {
 .Daniel {
     display: block;
     text-align: center;
-    margin-top: 30px;
+    margin-top: 40px;
     color: #000000;
     font-style: normal;
     font-weight: normal;
@@ -159,4 +165,39 @@ a:hover {
     display: block;
     width: 25px;
     margin-left: 672px;
+}
+
+/* Formatação do Projetos do Guilherme */
+.logo {
+    width: 35px;
+    display: inline-block;
+    margin: 5px 0 5px 25px;
+}
+
+#header {
+    display: block;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.Iframe-Guilherme {
+    display: block;
+    margin-top: 40px;
+    margin-left: 20px;
+    width: 35%;
+    height: 950px;
+    border: none;
+    border-radius: 10px;
+    filter: drop-shadow(2px 4px 8px #000000);
+}
+
+.description {
+    position: relative;
+    text-align: center;
+    color: #000000;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    padding-left: 330px;
+    top: -550px;
 }
