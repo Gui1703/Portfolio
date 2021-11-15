@@ -11,15 +11,14 @@ body::-webkit-scrollbar {
   }
   
   body::-webkit-scrollbar-track {
-    background: #4F4F4F;        /* color of the tracking area */
+    background: #4903F5;        /* color of the tracking area */
   }
   
   body::-webkit-scrollbar-thumb {
-    background-color: #4903F5;    /* color of the scroll thumb */
+    background-color: #4F4F4F;    /* color of the scroll thumb */
     border-radius: 20px;       /* roundness of the scroll thumb */
-    border: 2px solid #FFFFFF;  /* creates padding around scroll thumb */
   }
-
+/* Conteúdo pagina */
 html {
     scroll-behavior: smooth;
 }
