@@ -18,7 +18,7 @@ body::-webkit-scrollbar {
     background-color: #4F4F4F;    /* color of the scroll thumb */
     border-radius: 20px;       /* roundness of the scroll thumb */
   }
-  
+
 /* Conteúdo pagina */
 html {
     scroll-behavior: smooth;
@@ -48,7 +48,7 @@ nav {
     transition: background-color 1s;
     display: inline-block;
     margin-left: 100px;
-    margin-top: 16px;
+    margin-top: 15px;
 }
 
 a:hover {
