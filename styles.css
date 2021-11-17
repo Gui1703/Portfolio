@@ -182,7 +182,7 @@ a:hover {
     margin-left: 672px;
 }
 
-/* Formatação do Projetos do Guilherme */
+/* Formatação dos Projetos*/
 .logo {
     width: 35px;
     display: inline-block;
@@ -195,7 +195,7 @@ a:hover {
     margin-left: 20px;
 }
 
-.Iframe-Guilherme {
+.Iframe-Guilherme, .Iframe-Daniel {
     display: block;
     margin-top: 40px;
     margin-left: 20px;
@@ -206,12 +206,12 @@ a:hover {
     filter: drop-shadow(2px 4px 8px #000000);
 }
 
-.Iframe_Daniel{
+.Iframe_Daniel {
     display: block;
     margin-top: 40px;
     margin-left: 20px;
-    width: 100%;
-    height: 400px;
+    width: 98%;
+    height: 350px;
     border: none;
     border-radius: 10px;
     filter: drop-shadow(2px 4px 8px #000000);
