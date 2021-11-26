@@ -1,14 +1,14 @@
 # Portfolio
 
 
-<img src="./assets/Print one.png" alt="Photo Portfolio">
+<img src="./assets/Print-one.png" alt="Photo Portfolio">
 <img src="./assets/Print two.png" alt="Photo Portfolio">
 
 > Presentation image about us and our goals.
 
 <br>
 
-<img src="./assets/Print three.png" alt="Photo Social Networks">
+<img src="./assets/Print-three.png" alt="Photo Social Networks">
 
 > Image about our social networks.
 
@@ -44,7 +44,7 @@ The project is still under development and future updates will focus on the foll
 - [ ] Create responsiveness.
 - [ ] Portfolio in constant update.
 <br>
-- [GitHub pages - Portfolio](https://gui1703.github.io/Portfolio/) - Project Portfolio where the recruiter can analyze our knowledge and the projects made. The projects interact with the user without leaving the portfolio.
+[Portfolio](https://gui1703.github.io/Portfolio/) - Project Portfolio where the recruiter can analyze our knowledge and the projects made. The projects interact with the user without leaving the portfolio.
 ## 🤝 Contributors.
 
 We thank the following people who contributed to this project:
