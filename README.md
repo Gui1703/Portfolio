@@ -2,21 +2,36 @@
 
 
 <img src="./assets/Print one.png" alt="Photo Portfolio">
-<img src="./assets/Print two.png" alt="Photo Portfolioo">
+<img src="./assets/Print two.png" alt="Photo Portfolio">
 
 > Presentation image about us and our goals.
+
+<br>
 
 <img src="./assets/Print three.png" alt="Photo Social Networks">
 
 > Image about our social networks.
 
-<img src="./assets/Print four.png" alt="Guilherme-s Portfolio Photo">
-<img src="./assets/Print five.png" alt="Guilherme's Portfolio Photo">
-<img src="./assets/Print six.png" alt="Guilherme's Portfolio Photo">
+<br>
+
+<img src="./assets/Print four.png"  alt="Guilherme-s Portfolio Photo">
+<img src="./assets/Print five.png"  alt="Guilherme's Portfolio Photo">
+<img src="./assets/Print six.png"   alt="Guilherme's Portfolio Photo">
 <img src="./assets/Print seven.png" alt="Guilherme's Portfolio Photo">
 <img src="./assets/Print eight.png" alt="Guilherme's Portfolio Photo">
 
-> Added Guilherme's Portfolio to the project
+> Added Guilherme's Portfolio to the project.
+
+<br>
+
+<img src="./assets/Print nine.png" alt="Daniel's Portfolio Photo">
+<img src="./assets/Print ten.png" alt="Daniel's Portfolio Photo">
+<img src="./assets/Print eleven.png" alt="Daniel's Portfolio Photo">
+<img src="./assets/Print twelve.png" alt="Daniel's Portfolio Photo">
+
+> Added Daniel's Portfolio to the project.
+
+<br>
 
 ### Adjustments and improvements
 
@@ -25,9 +40,11 @@ The project is still under development and future updates will focus on the foll
 - [x] About Us.
 - [x] Social networks.
 - [x] Guilherme's Portfolio.
-- [ ] Daniel's portfolio.
+- [x] Daniel's portfolio.
+- [ ] Create responsiveness.
 - [ ] Portfolio in constant update.
-
+<br>
+- [GitHub pages - Portfolio](https://gui1703.github.io/Portfolio/) - Project Portfolio where the recruiter can analyze our knowledge and the projects made. The projects interact with the user without leaving the portfolio.
 ## 🤝 Contributors.
 
 We thank the following people who contributed to this project:
