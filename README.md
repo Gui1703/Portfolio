@@ -45,6 +45,7 @@ The project is still under development and future updates will focus on the foll
 - [ ] Portfolio in constant update.
 <br>
 [Portfolio](https://gui1703.github.io/Portfolio/) - Project Portfolio where the recruiter can analyze our knowledge and the projects made. The projects interact with the user without leaving the portfolio.
+
 ## 🤝 Contributors.
 
 We thank the following people who contributed to this project:
