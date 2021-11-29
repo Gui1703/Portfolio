@@ -5,19 +5,82 @@
     font-family: 'Poppins', sans-serif;
 }
 
+/* Formatação da responsividade */
+@media (max-width: 600px) {
+    .photograph-guilherme, .photograph-daniel {
+        width: 50% !important;
+        display: flex !important;
+        margin-left: 30px !important;
+    }
+
+    #paragraph-one {
+        display: flex !important;
+        padding-top: 500px !important;
+        padding-left: 10px !important;
+        width: auto !important;
+    }
+
+    #paragraph-two {
+        display: flex !important;
+        padding-top: 730px !important;
+        padding-left: 10px !important;
+        width: auto !important;
+    }
+
+    .Guilherme-s-social-networks-instagram, .Guilherme-s-social-networks-whatsapp, .Daniel-s-social-media-instagram, .Daniel-s-social-media-whatsapp {
+        position: absolute !important;
+        display: flexbox !important;
+        max-width: 6% !important;
+        margin-left: -30px !important;
+    }
+
+    .Guilherme-s-social-networks-github, .Daniel-s-social-media-github {
+        position: absolute !important;
+        display: flexbox !important;
+        max-width: 6% !important;
+        margin-left: -50px !important;
+    }
+
+    .Guilherme-s-social-networks-linkedin, .Daniel-s-social-media-linkedin {
+        position: absolute !important;
+        display: flexbox !important;
+        max-width: 8% !important;
+        margin-left: -45px !important;
+    }
+
+    iframe {
+        width: 90% !important;
+        display: flexbox !important;
+        
+    }
+
+    .description {
+        display: flex !important;
+        margin-top: 600px !important;
+        margin-bottom: -400px !important;
+        padding-left: 10px !important;
+        width: auto !important;
+        position: flexbox !important;
+    }
+}
+
 /* Barra de rolagem */
 body::-webkit-scrollbar {
-    width: 12px;               /* width of the entire scrollbar */
-  }
-  
-  body::-webkit-scrollbar-track {
-    background: #4903F5;        /* color of the tracking area */
-  }
-  
-  body::-webkit-scrollbar-thumb {
-    background-color: #4F4F4F;    /* color of the scroll thumb */
-    border-radius: 20px;       /* roundness of the scroll thumb */
-  }
+    width: 12px;
+    /* width of the entire scrollbar */
+}
+
+body::-webkit-scrollbar-track {
+    background: #4903F5;
+    /* color of the tracking area */
+}
+
+body::-webkit-scrollbar-thumb {
+    background-color: #4F4F4F;
+    /* color of the scroll thumb */
+    border-radius: 20px;
+    /* roundness of the scroll thumb */
+}
 
 /* Conteúdo pagina */
 html {
@@ -65,6 +128,8 @@ nav {
 /* Formatação do section */
 .photograph-guilherme {
     width: 200px;
+    display: flex;
+    flex-direction: column;
     position: absolute;
     margin-left: 100px;
     margin-top: 45px;
@@ -74,6 +139,8 @@ nav {
 
 .photograph-daniel {
     width: 200px;
+    display: flex;
+    flex-direction: column;
     position: absolute;
     margin-left: 100px;
     margin-top: 300px;
@@ -83,7 +150,8 @@ nav {
 }
 
 #paragraph-one {
-    display: block;
+    display: flex;
+    flex-direction: row;
     text-align: center;
     color: #000000;
     font-style: normal;
@@ -117,30 +185,30 @@ nav {
 
 .Guilherme-s-social-networks-linkedin {
     position: absolute;
-    display: block;
-    width: 35px;
-    margin-left: 668px;
+    display: flexbox;
+    max-width: 2.7%;
+    margin-left: -55px;
 }
 
 .Guilherme-s-social-networks-instagram {
     position: absolute;
-    display: block;
-    width: 25px;
-    margin-left: 672px;
+    display: flexbox;
+    max-width: 2%;
+    margin-left: -35px;
 }
 
 .Guilherme-s-social-networks-github {
     position: absolute;
-    display: block;
-    width: 25px;
-    margin-left: 672px;
+    display: flexbox;
+    max-width: 2%;
+    margin-left: -55px;
 }
 
 .Guilherme-s-social-networks-whatsapp {
     position: absolute;
-    display: block;
-    width: 25px;
-    margin-left: 672px;
+    display: flexbox;
+    max-width: 2%;
+    margin-left: -35px;
 }
 
 /* Formatação redes sociais do Daniel */
@@ -156,30 +224,30 @@ nav {
 
 .Daniel-s-social-media-linkedin {
     position: absolute;
-    display:block;
-    width: 35px;
-    margin-left: 668px;
+    display: flexbox;
+    max-width: 2.7%;
+    margin-left: -55px;
 }
 
 .Daniel-s-social-media-instagram {
     position: absolute;
-    display: block;
-    width: 25px;
-    margin-left: 672px;
+    display: flexbox;
+    max-width: 2%;
+    margin-left: -35px;
 }
 
 .Daniel-s-social-media-github {
     position: absolute;
-    display: block;
-    width: 25px;
-    margin-left: 672px;
+    display: flexbox;
+    max-width: 2%;
+    margin-left: -55px;
 }
 
 .Daniel-s-social-media-whatsapp {
     position: absolute;
-    display: block;
-    width: 25px;
-    margin-left: 672px;
+    display: flexbox;
+    max-width: 2%;
+    margin-left: -35px;
 }
 
 /* Formatação dos Projetos*/
@@ -228,7 +296,7 @@ nav {
     top: -550px;
 }
 
-.description2{
+.description2 {
     position: relative;
     text-align: center;
     color: #000000;
