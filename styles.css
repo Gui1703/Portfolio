@@ -9,7 +9,7 @@
 @media (max-width: 600px) {
     .photograph-guilherme, .photograph-daniel {
         width: 50% !important;
-        display: flex !important;
+        display: flexbox !important;
         margin-left: 30px !important;
     }
 
@@ -51,7 +51,6 @@
     iframe {
         width: 90% !important;
         display: flexbox !important;
-        
     }
 
     .description {
@@ -61,6 +60,17 @@
         padding-left: 10px !important;
         width: auto !important;
         position: flexbox !important;
+    }
+
+    .header {
+        display: flex !important;
+        flex-direction: column;
+        margin-left: -80px;
+    }
+
+    #layer {
+        display: flex !important;
+        margin-left: 90px !important;
     }
 }
 
