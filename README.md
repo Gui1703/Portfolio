@@ -33,7 +33,7 @@
 
 <br>
 
-<img src="./assets/Print thirteen.jpeg"   alt="Responsive portfolio">
+<img src="./assets/Print thirteen.jpeg"   alt="Responsive portfolio" width="380px">
 <img src="./assets/Print fourteen.jpeg"   alt="Responsive portfolio" width="380px">
 <img src="./assets/Print fiveteen.jpeg"   alt="Responsive portfolio" width="380px">
 <img src="./assets/Print sixteen.jpeg"   alt="Responsive portfolio" width="380px">
