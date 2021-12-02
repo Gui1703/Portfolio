@@ -24,14 +24,38 @@
 
 <br>
 
-<img src="./assets/Print nine.png" alt="Daniel's Portfolio Photo">
-<img src="./assets/Print ten.png" alt="Daniel's Portfolio Photo">
+<img src="./assets/Print nine.png"   alt="Daniel's Portfolio Photo">
+<img src="./assets/Print ten.png"    alt="Daniel's Portfolio Photo">
 <img src="./assets/Print eleven.png" alt="Daniel's Portfolio Photo">
 <img src="./assets/Print twelve.png" alt="Daniel's Portfolio Photo">
 
 > Added Daniel's Portfolio to the project.
 
 <br>
+
+<img src="./assets/Print thirteen.jpeg"   alt="Responsive portfolio">
+<img src="./assets/Print fourteen.jpeg"   alt="Responsive portfolio" width="380px">
+<img src="./assets/Print fiveteen.jpeg"   alt="Responsive portfolio" width="380px">
+<img src="./assets/Print sixteen.jpeg"   alt="Responsive portfolio" width="380px">
+<img src="./assets/Print seventeen.jpeg"   alt="Responsive portfolio" width="380px">
+<img src="./assets/Print eighteen.jpeg"   alt="Responsive portfolio" width="380px">
+<img src="./assets/Print nineteen.jpeg"   alt="Responsive portfolio" width="380px">
+<img src="./assets/Print twenty.jpeg"   alt="Responsive portfolio" width="380px">
+<img src="./assets/Print twenty five.jpeg"   alt="Responsive portfolio" width="380px">
+<img src="./assets/Print twenty six.jpeg"   alt="Responsive portfolio" width="380px">
+<img src="./assets/Print twenty one.jpeg "   alt="Responsive portfolio" width="380px">
+<img src="./assets/Print twenty two.jpeg"   alt="Responsive portfolio" width="380px">
+<img src="./assets/Print twenty three.jpeg"   alt="Responsive portfolio" width="380px">
+<img src="./assets/Print twenty four.jpeg "   alt="Responsive portfolio" width="380px">
+<img src="./assets/Print twenty five.jpeg"   alt="Responsive portfolio" width="380px">
+<img src="./assets/Print twenty six.jpeg"   alt="Responsive portfolio" width="380px">
+
+> Created responsiveness in the project
+
+<br>
+
+
+
 
 ### Adjustments and improvements
 
@@ -41,7 +65,7 @@ The project is still under development and future updates will focus on the foll
 - [x] Social networks.
 - [x] Guilherme's Portfolio.
 - [x] Daniel's portfolio.
-- [ ] Create responsiveness.
+- [x] Create responsiveness.
 - [ ] Portfolio in constant update.
 <br>
 [Portfolio](https://gui1703.github.io/Portfolio/) - Project Portfolio where the recruiter can analyze our knowledge and the projects made. The projects interact with the user without leaving the portfolio.
