@@ -48,6 +48,13 @@
 <img src="./assets/Print twenty.jpeg"   alt="Responsive portfolio" width="380px">
 <img src="./assets/Print twenty five.jpeg"   alt="Responsive portfolio" width="380px">
 <img src="./assets/Print twenty six.jpeg"   alt="Responsive portfolio" width="380px">
+<img src="./assets/Print twenty six1.jpeg"   alt="Responsive portfolio" width="380px">
+<img src="./assets/Print twenty six2.jpeg"   alt="Responsive portfolio" width="380px">
+<img src="./assets/Print twenty six3.jpeg"   alt="Responsive portfolio" width="380px">
+<img src="./assets/Print twenty six4.jpeg"   alt="Responsive portfolio" width="380px">
+<img src="./assets/Print twenty six5.jpeg"   alt="Responsive portfolio" width="380px">
+<img src="./assets/Print twenty six6.jpeg"   alt="Responsive portfolio" width="380px">
+<img src="./assets/Print twenty six7.jpeg"   alt="Responsive portfolio" width="380px">
 <img src="./assets/Print twenty one.jpeg "   alt="Responsive portfolio" width="380px">
 <img src="./assets/Print twenty two.jpeg"   alt="Responsive portfolio" width="380px">
 <img src="./assets/Print twenty three.jpeg"   alt="Responsive portfolio" width="380px">
