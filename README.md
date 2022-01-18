@@ -19,6 +19,11 @@
 <img src="./assets/Print six.png"   alt="Guilherme's Portfolio Photo">
 <img src="./assets/Print seven.png" alt="Guilherme's Portfolio Photo">
 <img src="./assets/Print eight.png" alt="Guilherme's Portfolio Photo">
+<img src="./assets/Print eight1.png" alt="Guilherme's Portfolio Photo">
+<img src="./assets/Print eight2.png" alt="Guilherme's Portfolio Photo">
+<img src="./assets/Print eight3.png" alt="Guilherme's Portfolio Photo">
+<img src="./assets/Print eight4.png" alt="Guilherme's Portfolio Photo">
+<img src="./assets/Print eight5.png" alt="Guilherme's Portfolio Photo">
 
 > Added Guilherme's Portfolio to the project.
 
@@ -66,7 +71,7 @@ The project is still under development and future updates will focus on the foll
 - [x] Guilherme's Portfolio.
 - [x] Daniel's portfolio.
 - [x] Create responsiveness.
-- [ ] Portfolio in constant update.
+- [x] Portfolio in constant update.
 <br>
 [Portfolio](https://gui1703.github.io/Portfolio/) - Project Portfolio where the recruiter can analyze our knowledge and the projects made. The projects interact with the user without leaving the portfolio.
 

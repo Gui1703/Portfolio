@@ -284,6 +284,16 @@ nav {
     filter: drop-shadow(2px 4px 8px #000000);
 }
 
+.Iframe_Larger {
+    display: block;
+    margin-top: 40px;
+    margin-left: 20px;
+    width: 98%;
+    height: 500px;
+    border: none;
+    border-radius: 10px;
+    filter: drop-shadow(2px 4px 8px #000000);
+}
 .Iframe_Daniel {
     display: block;
     margin-top: 40px;
