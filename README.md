@@ -24,6 +24,8 @@
 <img src="./assets/Print eight3.png" alt="Guilherme's Portfolio Photo">
 <img src="./assets/Print eight4.png" alt="Guilherme's Portfolio Photo">
 <img src="./assets/Print eight5.png" alt="Guilherme's Portfolio Photo">
+<img src="./assets/Print eight6.png" alt="Guilherme's Portfolio Photo">
+<img src="./assets/Print eight7.png" alt="Guilherme's Portfolio Photo">
 
 > Added Guilherme's Portfolio to the project.
 
