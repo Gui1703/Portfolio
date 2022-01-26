@@ -57,6 +57,10 @@
 <img src="./assets/Print twenty six5.jpeg"   alt="Responsive portfolio" width="380px">
 <img src="./assets/Print twenty six6.jpeg"   alt="Responsive portfolio" width="380px">
 <img src="./assets/Print twenty six7.jpeg"   alt="Responsive portfolio" width="380px">
+<img src="./assets/Print twenty six8.png"   alt="Responsive portfolio" width="380px">
+<img src="./assets/Print twenty six9.png"   alt="Responsive portfolio" width="380px">
+<br>
+<br>
 <img src="./assets/Print twenty one.jpeg "   alt="Responsive portfolio" width="380px">
 <img src="./assets/Print twenty two.jpeg"   alt="Responsive portfolio" width="380px">
 <img src="./assets/Print twenty three.jpeg"   alt="Responsive portfolio" width="380px">
